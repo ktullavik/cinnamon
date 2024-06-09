@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 """
 Close dialog spawned by cinnamon (closeDialog.js) that prompts the user to kill a hung window.
